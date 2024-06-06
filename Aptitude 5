@@ -1,0 +1,71 @@
+Q:Sum of two, two-digit numbers is a perfect square. The digits of the first two-digit number are two consecutive positive integers; also, when the digits of the first number are reversed, the second number is formed. Find these numbers & the square root of their sum.
+Ans:
+Let the two-digit numbers be $10a + (a-1)$ and $10(a-1) + a$, where $a$ is a positive integer.
+
+Since the digits of the first number are reversed to form the second number, we can write the equation:
+
+$$10a + (a-1) + 10(a-1) + a = x^2$$
+
+where $x$ is an integer.
+
+Simplifying the equation, we get:
+
+$$11a + 9 = x^2$$
+
+Since $x$ is an integer,we know that $x^2$ is a perfect square. The smallest perfect square that is greater than 9 is 16, so we can start by trying $x = 4$:
+$$11a + 9 = 16$$
+
+$$11a = 7$$
+
+$$a = 7/11$$
+
+But $a$ must be an integer, so this solution doesn't work.
+
+The next perfect square is 25, so we can try $x = 5$:
+
+$$11a + 9 = 25$$
+
+$$11a = 16$$
+
+$$a = 16/11$$
+Again, $a$ must be an integer, so this solution doesn't work.
+
+The next perfect square is 36, so we can try $x = 6$:
+
+$$11a + 9 = 36$$
+
+$$11a = 27$$
+
+$$a = 27/11$$
+Again, $a$ must be an integer, so this solution doesn't work.
+
+The next perfect square is 49, so we can try $x = 7$:
+
+$$11a + 9 = 49$$
+
+$$11a = 40$$
+
+$$a = 40/11$$
+Again, $a$ must be an integer, so this solution doesn't work.
+
+The next perfect square is 64, so we can try $x = 8$:
+
+$$11a + 9 = 64$$
+
+$$11a = 55$$
+
+$$a = 5$$
+
+This solution works! So, the two-digit numbers are:
+$$10a + (a-1) = 10(5) + (5-1) = 54$$
+
+$$10(a-1) + a = 10(5-1) + 5 = 45$$
+
+The sum of these numbers is:
+
+$$54 + 45 = 99$$
+And the square root of their sum is:
+
+$$\sqrt{99} = 3\sqrt{11}$$
+
+So, the two-digit numbers are 54 and 45, and the square root of their sum is $3\sqrt{11}$.
