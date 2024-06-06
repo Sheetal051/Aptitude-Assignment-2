@@ -1,0 +1,22 @@
+Q: Find a^+b^3+c^3+3abc , where a+b+c=5 & , a^2+b^2+c^2=10?
+Ans:
+To find a^3 + b^3 + c^3 + 3abc, we can use the formulas:
+(a + b + c)^2 = a^2 + b^2 + c^2 + 2(ab + bc + ca)
+           and
+a^3 + b^3 + c^3 - 3abc = (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)
+Given that a + b + c = 5 and a^2 + b^2 + c^2 = 10, we can calculate:
+(a + b + c)^2 = 5^2 = 25
+a^2 + b^2 + c^2 + 2(ab + bc + ca) = 25
+2(ab + bc + ca) = 25 - 10 = 15
+(ab + bc + ca) = 15/2 = 7.5
+Now, we can find a^3 + b^3 + c^3 - 3abc:
+a^3 + b^3 + c^3 - 3abc = (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca) = 5(10 - 7.5)
+= 5(2.5)
+= 12.5
+Finally, we can find a^3 + b^3 + c^3 + 3abc:
+a^3 + b^3 + c^3 + 3abc = a^3 + b^3 + c^3 - 3abc + 6abc
+= 12.5 + 6abc
+= 12.5 + 6(7.5)
+= 12.5 + 45
+= 57.5
+So, a^3 + b^3 + c^3 + 3abc = 57.5.
