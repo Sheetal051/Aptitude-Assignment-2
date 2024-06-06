@@ -1,0 +1,22 @@
+Q: What quantity of water should be added to the milk water mixture so that the milk water ratio changes from 2:3 to 4:11. The quantity of milk in the mixture is 40 litres?
+Ans:
+Initially, the milk to water ratio is 2:3, which means that for every 2 parts of milk, there are 3 parts of water.
+Let's assume the initial quantity of water is 3x. Then, the initial quantity of milk is 2x.
+We are given that the quantity of milk is 40 liters, so we can set up the equation:
+
+2x = 40
+x = 20
+So, the initial quantity of water is 3x = 3(20) = 60 liters.
+Now, we want to add some quantity of water to the mixture so that the milk to water ratio changes to 4:11.
+Let's assume the quantity of water added is x liters. Then, the new total quantity of water is 60 + x.
+The new milk to water ratio is 4:11, which means that for every 4 parts of milk, there are 11 parts of water.
+We can set up the equation:
+
+40 (milk) / (60 + x) (water) = 4/11
+Cross-multiply:
+440 = 4(60 + x)
+440 = 240 + 4x
+200 = 4x
+x = 50
+
+So, 50 liters of water should be added to the mixture to change the milk to water ratio from 2:3 to 4:11.
