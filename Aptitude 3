@@ -1,0 +1,10 @@
+Q:a & b are positive integers such that a^2-b^=19. Find a & b?
+Ans:
+To find the positive integers a and b such that a^2 - b^2 = 19, we can use the difference of squares identity:
+a^2 - b^2 = (a + b)(a - b)
+Since a^2 - b^2 = 19, we can set up the equation:
+(a + b)(a - b) = 19
+We know that 19 is a prime number, so it has only two positive integer factors: 1 and 19.
+If a + b = 1, then a - b = 19, which means that a = 10 and b = -9, but we are looking for positive integers.
+If a + b = 19, then a - b = 1, which means that a = 10 and b = 9.
+So, the positive integers a and b such that a^2 - b^2 = 19 are a = 10 and b = 9.
